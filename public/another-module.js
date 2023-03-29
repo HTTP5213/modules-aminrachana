@@ -6,7 +6,7 @@ const HobbitSettlement = class {
           this.founding = founding;
           this.founders = founders;
           this.originalSettlement = { name: 'Eriador', details: eriardorDetails };
-  }
+       }
 };
 
 const buckland = new HobbitSettlement('Buckland', 2340, 'Gorhendad Oldbuck');
